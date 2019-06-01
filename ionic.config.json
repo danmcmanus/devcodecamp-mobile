@@ -1,6 +1,8 @@
 {
   "name": "devcode-camp-mobile",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "96ed97c1"
 }
